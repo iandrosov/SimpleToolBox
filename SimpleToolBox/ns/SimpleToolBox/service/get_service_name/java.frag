@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="name">get_service_name</value>
+  <value name="encodeutf8">true</value>
+  <value name="body">SURhdGFIYXNoQ3Vyc29yIGN1cnMgPSBwaXBlbGluZS5nZXRIYXNoQ3Vyc29yKCk7ClN0cmluZyBj
+YWxsZXIgPSAiU1ZDIC0gIjsKCnRyeSAKewoJVGhyZWFkIHQgPSBUaHJlYWQuY3VycmVudFRocmVh
+ZCgpOwoJY29tLndtLmFwcC5iMmIuc2VydmVyLlNlcnZlclRocmVhZCBzdCA9IChjb20ud20uYXBw
+LmIyYi5zZXJ2ZXIuU2VydmVyVGhyZWFkKXQ7CglqYXZhLnV0aWwuU3RhY2sgc3RhY2sgPSBzdC5n
+ZXRTdGF0ZSgpLmdldENhbGxTdGFjaygpOwoKCWZvciAoaW50IGkgPSAwOyBpIDwgc3RhY2suc2l6
+ZSgpOyBpKyspCgl7CgkJaWYgKGkgPCBzdGFjay5zaXplKCkgLSAxKQoJCXsKCQkJY2FsbGVyICs9
+IHN0YWNrLmVsZW1lbnRBdChpKS50b1N0cmluZygpOwoJCQljYWxsZXIgKz0gIiAiOwoJCX0KCX0K
+Cn0gCmNhdGNoIChFeGNlcHRpb24gZSkgCnsgCgljYWxsZXIgPSBuZXcgU3RyaW5nKCJub24tZGV0
+ZXJtaW5hYmxlIik7IAp9CmN1cnMubGFzdCgpOwpjdXJzLmluc2VydEFmdGVyKCJzZXJ2aWNlTmFt
+ZSIsIGNhbGxlcik7</value>
+</Values>

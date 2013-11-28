@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="name">guarantee_list</value>
+  <value name="encodeutf8">true</value>
+  <value name="body">dHJ5IHsKSURhdGFIYXNoQ3Vyc29yIGN1cnMgPSBwaXBlbGluZS5nZXRIYXNoQ3Vyc29yKCk7Cgpj
+dXJzLmZpcnN0KCJJTlBVVCIpOwpPYmplY3Qgb2JqID0gY3Vycy5nZXRWYWx1ZSgpOwoKaWYgKG9i
+aiA9PSBudWxsKSB7CiAgICBjdXJzLmxhc3QoKTsKCWN1cnMuaW5zZXJ0QWZ0ZXIoIk9VVFBVVCIs
+IG9iaik7Cn0KZWxzZSB7CiAgIENsYXNzIGMgPSBvYmouZ2V0Q2xhc3MoKTsKCiAgIGlmICggIWMu
+aXNBcnJheSgpICkgewogICAgICAgLy8gYXZvaWQgY2xhc3MgY2FzdCBleGNlcHRpb25zIHRoaXMg
+d2F5CgkgICBPYmplY3Qgb3V0cHV0IFtdID0gKE9iamVjdCBbXSlqYXZhLmxhbmcucmVmbGVjdC5B
+cnJheS5uZXdJbnN0YW5jZShjLCAxKTsKCSAgIG91dHB1dFswXSA9IG9iajsKCSAgIGN1cnMubGFz
+dCgpOwoJICAgY3Vycy5pbnNlcnRBZnRlcigiT1VUUFVUIiwgb3V0cHV0KTsKICAgfSBlbHNlIHsK
+CSAgIGN1cnMubGFzdCgpOwoJICAgY3Vycy5pbnNlcnRBZnRlcigiT1VUUFVUIiwgb2JqKTsKICAg
+fQp9Cgp9IGNhdGNoICAoRXhjZXB0aW9uIGUpIHsKdGhyb3cgbmV3IFNlcnZpY2VFeGNlcHRpb24o
+ZS5nZXRNZXNzYWdlKCkpOwp9</value>
+</Values>

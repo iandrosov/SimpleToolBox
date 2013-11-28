@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <record name="record" javaclass="com.wm.util.Values">
+    <value name="node_type">record</value>
+    <value name="node_nsName">COMMON_SYSTEM.date.rec:DateTime</value>
+    <value name="node_pkg">COMMON_SYSTEM</value>
+    <value name="field_type">record</value>
+    <value name="field_dim">0</value>
+    <value name="field_opt">false</value>
+    <list name="rec_fields">
+      <record javaclass="com.wm.util.Values">
+        <value name="node_type">unknown</value>
+        <value name="field_name">@qualifier</value>
+        <value name="field_type">string</value>
+        <value name="field_dim">0</value>
+        <value name="field_opt">false</value>
+        <record name="field_content_type" javaclass="com.wm.util.Values">
+          <value name="contentType">1</value>
+          <value name="internalType">instance</value>
+          <value name="ct_class">com.wm.lang.schema.datatype.WmString</value>
+          <array name="enumeration" type="value" depth="1">
+            <value>ACCOUNTING</value>
+            <value>ACTEND</value>
+            <value>ACTSTART</value>
+            <value>APPREQ</value>
+            <value>APPROVAL</value>
+            <value>AVAILABLE</value>
+            <value>BKTEND</value>
+            <value>BKTSTART</value>
+            <value>CANCEL</value>
+            <value>CHANGEDATE</value>
+            <value>COMPDATE</value>
+            <value>CONSUME</value>
+            <value>CREATION</value>
+            <value>CUMULATIVE</value>
+            <value>DELIVACT</value>
+            <value>DELIVSCHED</value>
+            <value>DISCNT</value>
+            <value>DOCUMENT</value>
+            <value>DUE</value>
+            <value>EARLSTEFF</value>
+            <value>EARLSTSHIP</value>
+            <value>EFFECTIVE</value>
+            <value>ENGCHG</value>
+            <value>EXECFINISH</value>
+            <value>EXECSTART</value>
+            <value>EXPIRATION</value>
+            <value>FAILDATE</value>
+            <value>FORECASTF</value>
+            <value>FORECASTS</value>
+            <value>FROM</value>
+            <value>GENERATION</value>
+            <value>IMPL</value>
+            <value>INVOICE</value>
+            <value>JOBDUE</value>
+            <value>LABORFINSH</value>
+            <value>LABORSTART</value>
+            <value>LASTUSED</value>
+            <value>LOADING</value>
+            <value>MATCHING</value>
+            <value>MSMENTDATE</value>
+            <value>NEEDDELV</value>
+            <value>OPFINISH</value>
+            <value>OPSTART</value>
+            <value>PAYEND</value>
+            <value>PLANEND</value>
+            <value>PLANSTART</value>
+            <value>PO</value>
+            <value>PROMDELV</value>
+            <value>PROMSHIP</value>
+            <value>PYMTTERM</value>
+            <value>RECEIVED</value>
+            <value>REPORTDATE</value>
+            <value>REPORTNGFN</value>
+            <value>REPORTNGST</value>
+            <value>REQUIRED</value>
+            <value>RESORCDWNF</value>
+            <value>RESORCDWNS</value>
+            <value>RSPDDATE</value>
+            <value>RSPDOCGEN</value>
+            <value>SCHEND</value>
+            <value>SCHSTART</value>
+            <value>SETUPFINSH</value>
+            <value>SETUPSTART</value>
+            <value>SHIP</value>
+            <value>SHIPSCHED</value>
+            <value>STATUSDATE</value>
+            <value>TEARDOWNF</value>
+            <value>TEARDOWNS</value>
+            <value>TO</value>
+            <value>OTHER</value>
+          </array>
+          <value name="whiteSpace">none</value>
+        </record>
+      </record>
+      <record javaclass="com.wm.util.Values">
+        <value name="node_type">unknown</value>
+        <value name="field_name">@type</value>
+        <value name="field_type">string</value>
+        <value name="field_dim">0</value>
+        <value name="field_opt">true</value>
+        <record name="field_content_type" javaclass="com.wm.util.Values">
+          <value name="contentType">1</value>
+          <value name="internalType">instance</value>
+          <value name="ct_class">com.wm.lang.schema.datatype.WmString</value>
+          <array name="enumeration" type="value" depth="1">
+            <value>T</value>
+            <value>F</value>
+            <value>OTHER</value>
+          </array>
+          <value name="whiteSpace">none</value>
+        </record>
+      </record>
+      <record javaclass="com.wm.util.Values">
+        <value name="node_type">unknown</value>
+        <value name="field_name">@index</value>
+        <value name="field_type">string</value>
+        <value name="field_dim">0</value>
+        <value name="field_opt">true</value>
+        <record name="field_content_type" javaclass="com.wm.util.Values">
+          <value name="contentType">1</value>
+          <value name="internalType">reference</value>
+          <array name="targetNames" type="record" depth="1">
+            <record javaclass="com.wm.util.Values">
+              <value name="xmlns">http://www.w3.org/2000/10/XMLSchema</value>
+              <value name="ncName">string</value>
+            </record>
+          </array>
+        </record>
+      </record>
+      <record javaclass="com.wm.util.Values">
+        <value name="node_type">unknown</value>
+        <value name="field_name">YEAR</value>
+        <value name="field_type">string</value>
+        <value name="field_dim">0</value>
+        <value name="field_opt">false</value>
+      </record>
+      <record javaclass="com.wm.util.Values">
+        <value name="node_type">unknown</value>
+        <value name="field_name">MONTH</value>
+        <value name="field_type">string</value>
+        <value name="field_dim">0</value>
+        <value name="field_opt">false</value>
+      </record>
+      <record javaclass="com.wm.util.Values">
+        <value name="node_type">unknown</value>
+        <value name="field_name">DAY</value>
+        <value name="field_type">string</value>
+        <value name="field_dim">0</value>
+        <value name="field_opt">false</value>
+      </record>
+      <record javaclass="com.wm.util.Values">
+        <value name="node_type">unknown</value>
+        <value name="field_name">HOUR</value>
+        <value name="field_type">string</value>
+        <value name="field_dim">0</value>
+        <value name="field_opt">false</value>
+      </record>
+      <record javaclass="com.wm.util.Values">
+        <value name="node_type">unknown</value>
+        <value name="field_name">MINUTE</value>
+        <value name="field_type">string</value>
+        <value name="field_dim">0</value>
+        <value name="field_opt">false</value>
+      </record>
+      <record javaclass="com.wm.util.Values">
+        <value name="node_type">unknown</value>
+        <value name="field_name">SECOND</value>
+        <value name="field_type">string</value>
+        <value name="field_dim">0</value>
+        <value name="field_opt">false</value>
+      </record>
+      <record javaclass="com.wm.util.Values">
+        <value name="node_type">unknown</value>
+        <value name="field_name">SUBSECOND</value>
+        <value name="field_type">string</value>
+        <value name="field_dim">0</value>
+        <value name="field_opt">false</value>
+      </record>
+      <record javaclass="com.wm.util.Values">
+        <value name="node_type">unknown</value>
+        <value name="field_name">TIMEZONE</value>
+        <value name="field_type">string</value>
+        <value name="field_dim">0</value>
+        <value name="field_opt">false</value>
+      </record>
+    </list>
+    <value name="rec_closed">false</value>
+  </record>
+</Values>

@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+	<sections>
+	<name>Cleanup</name>
+	<text>Cleanup</text>
+	<submenu>
+		<name>1</name>
+		<text>Custom Log File</text>
+		<url>clean/custom_log_file.dsp</url>
+		<help>help.dsp</help>
+	</submenu>
+	<submenu>
+		<name>2</name>
+		<text>Custom Logs Path</text>
+		<url>clean/custom_log_path.dsp</url>
+		<help>help.dsp</help>
+	</submenu>
+	</sections>
